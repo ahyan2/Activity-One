@@ -1,0 +1,1 @@
+First, I will commit the README.md, .gitignore, and LICENSE files. I created them via 'touch x' in the terminal within my project directory. I edited the contents of the README.md file by opening it with Xcode.
