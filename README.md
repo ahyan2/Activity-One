@@ -1,1 +1,1 @@
-First, I will commit the README.md, .gitignore, and LICENSE files. I created them via 'touch x' in the terminal within my project directory. I edited the contents of the README.md file by opening it with Xcode.
+This program has two variables, x and y, which store integer values. It then creates a new variable, temp, which stores the value of x. This allows x to take the value of y, and y to take the original value of x (currently stored in temp). In the end, the values of the variables are swapped.
